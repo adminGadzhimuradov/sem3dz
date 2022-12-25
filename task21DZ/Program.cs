@@ -6,28 +6,50 @@
 // 12821 -> да
 // 23432 -> да
 
-internal class Program
+namespace task21DZ
 {
-    private static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("Введите число: ");
-        string number = Console.ReadLine();
-        int len = number.Length;
-
-        if (len == 5)
+        public Program()
         {
-            if (number[0] == number[4] && number[1] == number[3])
+        }
+
+        private static void Main(string[] args)
+        {
+            Console.WriteLine("Введите число: ");
+            string number = Console.ReadLine();
+            int len = number.Length;
+
+            if (len == 5)
             {
-                Console.WriteLine($"{number} - Палиндром");
+                if (number[0] == number[4] && number[1] == number[3])
+                {
+                    Console.WriteLine($"{number} - Палиндром");
+                }
+                else
+                {
+                    Console.WriteLine($"{number} - Не палиндром");
+                }
             }
             else
             {
-                Console.WriteLine($"{number} - Не палиндром");
+                Console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
             }
         }
-        else
+
+        public override bool Equals(object? obj)
         {
-            Console.WriteLine($"ОШИБКА: {number} - не является пятизначным");
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override string? ToString()
+        {
+            return base.ToString();
         }
     }
 }
