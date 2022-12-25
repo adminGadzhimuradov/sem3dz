@@ -1,0 +1,15 @@
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.csproj.AssemblyReference.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.AssemblyInfoInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.AssemblyInfo.cs
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.csproj.CoreCompileInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\bin\Debug\net6.0\task22DZ1.exe
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\bin\Debug\net6.0\task22DZ1.deps.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\bin\Debug\net6.0\task22DZ1.runtimeconfig.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\bin\Debug\net6.0\task22DZ1.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\bin\Debug\net6.0\task22DZ1.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\refint\task22DZ1.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\task22DZ1.genruntimeconfig.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\NEW2sem\task22DZ1\obj\Debug\net6.0\ref\task22DZ1.dll
